@@ -1,0 +1,6 @@
+﻿__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+outputs/*
+!outputs/visuals/.gitkeep
